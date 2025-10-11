@@ -13,7 +13,7 @@ What to Expect
 
 Skills and Tools
 - Data analysis and visualization
-- Programming languages: Python, R, SQL
+- Programming languages: Python, SQL
 - Data manipulation and cleaning
 - Data visualization tools: [list specific tools, e.g., Excel, Power BI]
 
